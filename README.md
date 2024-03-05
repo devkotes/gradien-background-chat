@@ -1,4 +1,4 @@
-# like_telegram
+# gradient-bg-chat
 
 A new Flutter project.
 
